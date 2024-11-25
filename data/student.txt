@@ -38,3 +38,21 @@
 Additional note: there are several (382) students that belong to both datasets . 
 These students can be identified by searching for identical attributes
 that characterize each student, as shown in the annexed R file.
+
+Mapping: school {'GP': 0, 'MS': 1}
+Mapping: sex {'F': 0, 'M': 1}
+Mapping: address {'R': 0, 'U': 1}
+Mapping: famsize {'GT3': 0, 'LE3': 1}
+Mapping: Pstatus {'A': 0, 'T': 1}
+Mapping: Mjob {'at_home': 0, 'health': 1, 'other': 2, 'services': 3, 'teacher': 4}
+Mapping: Fjob {'at_home': 0, 'health': 1, 'other': 2, 'services': 3, 'teacher': 4}
+Mapping: reason {'course': 0, 'home': 1, 'other': 2, 'reputation': 3}
+Mapping: guardian {'father': 0, 'mother': 1, 'other': 2}
+Mapping: schoolsup {'no': 0, 'yes': 1}
+Mapping: famsup {'no': 0, 'yes': 1}
+Mapping: paid {'no': 0, 'yes': 1}
+Mapping: activities {'no': 0, 'yes': 1}
+Mapping: nursery {'no': 0, 'yes': 1}
+Mapping: higher {'no': 0, 'yes': 1}
+Mapping: internet {'no': 0, 'yes': 1}
+Mapping: romantic {'no': 0, 'yes': 1}
