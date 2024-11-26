@@ -4,7 +4,7 @@
 This project analyzes the student performance dataset and develops a predictive model for the final grade (`G3`). The analysis involves feature engineering, visualization, and model evaluation. The goal is to understand factors influencing student performance and build a robust predictive model.
 
 ## Dataset
-The analysis is based on the [Student Performance Dataset](https://archive.ics.uci.edu/ml/datasets/Student+Performance). The dataset includes attributes such as:
+The analysis is based on the [Student Performance Dataset](https://www.kaggle.com/datasets/impapan/student-performance-data-set). The dataset includes attributes such as:
 - **Demographics**: Age, gender, address type, etc.
 - **Academic Information**: Previous grades (`G1`, `G2`), study time, failures.
 - **Parental and Social Information**: Parent education levels, family support, relationships.
